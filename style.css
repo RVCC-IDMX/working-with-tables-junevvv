@@ -43,6 +43,10 @@ padding-bottom: 50px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: #C70039;
   text-align:center;
+  font-kerning: 1px;
+  text-shadow: grey 5px 5px 10px;
+  margin-bottom: 3rem;
+  font-size: 40px;
 }
 
 
